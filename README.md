@@ -5,12 +5,7 @@ Codigo para el concurso del pastel de Waragon.
 
 Concurso de Waragon
 
-
 Algoritmo por: Licenciado Alvaro Gonzalez
- 
-alvaro.gonzalez.ferrer@gmail.com
-
-(011) - 15 54738580 (14 a 18 hs, preferible comunicarse por email)
  
 Licencia MIT
 
